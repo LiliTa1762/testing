@@ -114,7 +114,7 @@ path_st *create_node(char *s)
 }
 
 /**
- * free_listint - frees a listint_t list
+ * free_PATH - frees a listint_t list
  * @head: is the header of the linked list
  *
  * Return: na
